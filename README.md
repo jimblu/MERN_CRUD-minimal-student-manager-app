@@ -1,6 +1,6 @@
 # MERN_CRUD-minimal-student-manager-app
 
-[<img align="center" alt="authentication" width="550px" src="https://user-images.githubusercontent.com/71411560/115470579-d88d3a80-a236-11eb-9918-13abff94b602.png" />]
+<img align="center" alt="authentication" width="550px" src="https://user-images.githubusercontent.com/71411560/115470579-d88d3a80-a236-11eb-9918-13abff94b602.png" />
 
 A student manager app (React MERN Stack CRUD App) to train
 ### Built With
@@ -47,7 +47,6 @@ Get inside the backend folder
 Run npm install to install required packages
 Open terminal run nodemon server.js
 Open other terminal run mongod
-Open API URL on http://localhost:4000/students to view it in the browser.
 
 npm test
 Launches the test runner in the interactive watch mode.
@@ -59,6 +58,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
-
-See the section about deployment for more information.
    ```
