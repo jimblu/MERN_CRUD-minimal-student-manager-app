@@ -1,6 +1,6 @@
 # MERN_CRUD-minimal-student-manager-app
 
-<img align="center" alt="authentication" width="550px" src="https://user-images.githubusercontent.com/71411560/115470579-d88d3a80-a236-11eb-9918-13abff94b602.png" />
+<img align="center" alt="authentication" width="550px" src="https://user-images.githubusercontent.com/71411560/115472221-bc3ecd00-a239-11eb-9619-f84edad0647f.png" />
 
 A student manager app (React MERN Stack CRUD App) to train
 ### Built With
