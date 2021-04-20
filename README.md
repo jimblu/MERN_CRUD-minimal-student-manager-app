@@ -1,6 +1,5 @@
 # MERN_CRUD-minimal-student-manager-app
 
-Click on the preview :
 [<img align="center" alt="authentication" width="550px" src="https://user-images.githubusercontent.com/71411560/115470579-d88d3a80-a236-11eb-9918-13abff94b602.png" />]
 
 A student manager app (React MERN Stack CRUD App) to train
@@ -37,9 +36,9 @@ A student manager app (React MERN Stack CRUD App) to train
    In the project directory, you can run:
 
 npm start
+
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
-
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
